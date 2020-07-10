@@ -1,0 +1,66 @@
+﻿body
+{
+}
+*{
+    margin:0 auto;
+    padding:0;
+    box-sizing:border-box;
+}
+.main{
+    width:99%;
+    height:70em;
+
+}
+header{
+    width:100%;
+    height:3.7em;
+    background-color:#1645d1;
+
+}
+nav {
+    width: 25%;
+    height: 40em;
+    float: left;
+    background-color: #808080;
+}
+section {
+    width: 50%;
+    height: 40em;
+    line-height: 2em;
+    text-align: center;
+    float: left;
+    background-color: #ededed;
+}
+aside {
+    width: 25%;
+    height: 40em;
+    float: left;
+    background-color: #808080;
+}
+footer {
+    width: 100%;
+    height: 3.7em;
+    clear: both;
+    text-align: center;
+    background-color: #1645d1;
+}
+li {
+    list-style-type: none;
+    display: inline-block;
+    width: 10%;
+    margin-top: 0.5em;
+}
+ul {
+    margin-left: 2em;
+ 
+   
+}
+.dangky{
+    margin-top:2.4em;
+    background-color:#ededed;
+    width:80%;
+}
+.sale1{
+    width:100%;
+    height:100%;
+}
